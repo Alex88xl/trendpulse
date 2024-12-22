@@ -7,4 +7,10 @@ You can visit the page here: https://tr3ndpulse.streamlit.app
 
 You need to have a rapidapi API-Key and you need to add a few apis. For the current ones, please see the about region in the streamlit app.
 
+You can start it locally with:
+```bash
+pip install -r requirements.txt
+streamlit run stream_data.py
+```
+
 Thanks and have fun!
